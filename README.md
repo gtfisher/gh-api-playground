@@ -1,4 +1,4 @@
-# Github api play ground repo
+# Github api playground repo
 
 A playground project for the GH api, was using to do some demo work around
 pulling notebook files and makrdoewn files from a repo.
