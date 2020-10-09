@@ -54,4 +54,5 @@ query {
   Can run with:
 
   GITHUB_TOKEN="<API_TOKEN>" pytest -q -s tests/test_get_repo_entries_recursive.py
+  <br/>
   GITHUB_TOKEN="<API_TOKEN>" python requests_get_repo_recursive.py
